@@ -1,0 +1,5 @@
+baseURL = "https://www.LombokJS.com/"
+languageCode = "en-us"
+title = "LombokJS"
+
+theme = "hermit"
